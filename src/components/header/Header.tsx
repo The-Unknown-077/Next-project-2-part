@@ -1,5 +1,4 @@
 'use client'
-import Link from 'next/link';
 import { memo, useState } from 'react';
 import xbtn from "@/assets/Frame.svg";
 import Image from 'next/image';
