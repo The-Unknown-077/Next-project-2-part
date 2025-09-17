@@ -1,5 +1,4 @@
 import { Tag } from 'antd';
-import Image from 'next/image';
 import { FC, memo } from 'react';
 import ButtonView from './ButtonView';
 import ImageClick from './ImageClick';

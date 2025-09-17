@@ -2,7 +2,6 @@ import Companies from '@/components/companies/Companies';
 import DressStyles from '@/components/dressStyles/DressStyles';
 import Hero from '@/components/hero/Hero';
 import NewArrivals from '@/components/newArrivals/NewArrivals';
-import ProductView from '@/components/product-view/ProductView';
 import Testimonials from '@/components/testimonials/Testimonials';
 import { memo } from 'react';
 

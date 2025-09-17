@@ -1,5 +1,3 @@
-"use client";
-
 import { Card, Rate } from "antd";
 import { FC, memo } from "react";
 import { LeftOutlined, RightOutlined } from "@ant-design/icons";
